@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: 'https://github.com/iradics1974/my-k8s-app.git'
+    repoURL: 'https://github.com/YOUR-USER/my-static-webserver-gitops.git'
     targetRevision: HEAD
     path: .
   destination:
